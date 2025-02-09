@@ -4,7 +4,7 @@
     </div>
     <div>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAGI1F327&layout=compact&bg_color=180,0d1117,00000000&title_color=ffffff&text_color=ffffff" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1F327&layout=compact&bg_color=180,0d1117,00000000&title_color=ffffff&text_color=ffffff" />
         </a>
         <br/>
         <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=wwcomms12" width="35.5%" height="100%" />
